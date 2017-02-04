@@ -10,6 +10,9 @@
 
 # Maven中央库(The Central Repository)  
 - [Maven central  http://central.sonatype.org/](http://central.sonatype.org/)  
+- [在中央库制作新的构建](sonatype/central/central_sonatype.md)  
+
+  
 
  
   
