@@ -33,7 +33,7 @@ sonatype提供文档, 如何上传新的构建, 使用构建等等.
 - [大组织/大熔炉 - 仓库同步](#producersLargeOrganizations)  
     - [为什么同步你的熔炉到中央库](#producersWhySynchronize)  
     - [是否已经有人已经这么做](#producersIsAnybodyDoing)    
-	- [下一步](#producersNextSteps)  
+	- [下一步](#下一步)  
 
 	
 ## 个人工程 - 开源软件仓库主机	
