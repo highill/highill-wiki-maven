@@ -22,12 +22,12 @@ sonatype提供文档, 如何上传新的构建, 使用构建等等.
 页面内连接:  
 
 
-- [制作人](#producers.md)   
-- [OSSRH指导](#ossrh_guide.md)  
-- [要求](#project_requirements.md)  
-- [PGP签名](#working_with_pgp_signatures.md)  
-- [Ant部署](#deploy_with_apache_ant.md)    
-- [Maven部署](#deploy_with_apache_maven.md)  
+- [制作人](producers.md)   
+- [OSSRH指导](ossrh_guide.md)  
+- [要求](project_requirements.md)  
+- [PGP签名](working_with_pgp_signatures.md)  
+- [Ant部署](deploy_with_apache_ant.md)    
+- [Maven部署](deploy_with_apache_maven.md)  
 
 
 
