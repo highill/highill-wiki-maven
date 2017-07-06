@@ -28,6 +28,10 @@ sonatype提供文档, 如何上传新的构建, 使用构建等等.
 - [PGP签名](working_with_pgp_signatures.md)  
 - [Ant部署](deploy_with_apache_ant.md)    
 - [Maven部署](deploy_with_apache_maven.md)  
+- [Gradle部署](deploy_with_gradle.md)  
+
+
+
 
 
 
