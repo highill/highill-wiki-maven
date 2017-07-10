@@ -29,6 +29,10 @@ sonatype提供文档, 如何上传新的构建, 使用构建等等.
 - [Ant部署](deploy_with_apache_ant.md)    
 - [Maven部署](deploy_with_apache_maven.md)  
 - [Gradle部署](deploy_with_gradle.md)  
+- [sbt部署](deploy_with_sbt.md)    
+
+
+
 
 
 
