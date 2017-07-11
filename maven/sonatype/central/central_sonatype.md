@@ -31,6 +31,11 @@ sonatype提供文档, 如何上传新的构建, 使用构建等等.
 - [Gradle部署](deploy_with_gradle.md)  
 - [sbt部署](deploy_with_sbt.md)    
 - [手动部署](deploy_with_manual_deployment.md)  
+- [发布部署](releasing_the_deployment.md)  
+
+
+
+
 
 
 
