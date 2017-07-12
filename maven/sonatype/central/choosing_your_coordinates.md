@@ -3,7 +3,7 @@
 
 # 选择坐标  
 
-` groupId ` 标识工程唯一的贯穿所有工程和全部名空间的控制部分. 与[Java包命名规范]((http://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html)相似, 它重新利用域名系统反转的方式. 这意味着控制域名, 可以使用任何 groupId 使用反转域名开始并且细分以希望的方式创建.  
+` groupId ` 标识工程唯一的贯穿所有工程和全部名空间的控制部分. 与[Java包命名规范](http://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html)相似, 它重新利用域名系统反转的方式. 这意味着控制域名, 可以使用任何 groupId 使用反转域名开始并且细分以希望的方式创建.  
 
 举个例子, 如果控制 _example.com_ , 可以使用任何以 _com.example_ 开始的groupId. 举个例子 _com.example.domain_ , _com.example.testsupport_ 等等. 
 
